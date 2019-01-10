@@ -1,0 +1,1 @@
+{"status": "Open", "enrolledCount": 1222, "reservedCount": 749, "waitlistedCount": 0, "maxEnroll": 1500, "maxWaitlist": 800}
