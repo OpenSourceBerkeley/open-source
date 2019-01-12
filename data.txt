@@ -1,1 +1,6 @@
-{"status": "Open", "enrolledCount": 1222, "reservedCount": 749, "waitlistedCount": 0, "maxEnroll": 1500, "maxWaitlist": 800}
+CS61A
+https://classes.berkeley.edu/content/2019-spring-compsci-61a-001-lec-001
+{'status': 'Open', 'enrolledCount': 1238, 'reservedCount': 745, 'waitlistedCount': 0, 'maxEnroll': 1500, 'maxWaitlist': 800}
+CS61B
+https://classes.berkeley.edu/content/2019-spring-compsci-61b-001-lec-001
+{'status': 'Closed', 'enrolledCount': 1500, 'reservedCount': 1125, 'waitlistedCount': 143, 'maxEnroll': 1500, 'maxWaitlist': 600}
