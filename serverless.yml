@@ -1,0 +1,12 @@
+service: scraper
+
+provider:
+  name: aws
+  runtime: python3.6
+  environment:
+    NEXMO_API_KEY: 'INSERT_API_KEY_HERE'
+    NEXMO_API_SECRET: 'INSERT_API_SECRET_HERE'
+
+functions:
+  getData:
+    handler: handler.getData
