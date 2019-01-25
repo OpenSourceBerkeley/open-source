@@ -3,6 +3,7 @@ import process
 import sched, time
 from classHelper import Section
 
+
 """Setup function to be called when data.txt is empty, or manually for initial setup"""
 def setup():
 	switch = True
