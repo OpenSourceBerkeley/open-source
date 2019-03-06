@@ -2,7 +2,7 @@ import nexmo
 from construct import createMessage
 
 """personal client information"""
-client = nexmo.Client(key='3057bdb4', secret='uG4jgD0ob23tGHi7')
+client = nexmo.Client(key='KEY_HERE', secret='SECRET_HERE')
 
 """Checks if the passed in message is empty or None, prints a copy of the message being sent, 
 	prints information regarding the Nexmo transaction ocurring, and sends the message"""
