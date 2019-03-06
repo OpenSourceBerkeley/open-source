@@ -11,7 +11,7 @@ def sendMessage(msg):
 		print("No updates. Empty message will not be sent")
 		return
 	print("Sending message: " + msg)
-	print(client.send_message({'from':'12035338039', 'to':'16192406117', 'text': msg}))
+	print(client.send_message({'from':'NUM_FROM', 'to':'NUM_TO', 'text': msg}))
 
 
 """Makes call to construct.createMessage by passing in section, exports returned message to sendMessage"""
